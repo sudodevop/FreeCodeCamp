@@ -1,0 +1,1 @@
+let yourArray = ['One String', 69, true, 'Two Number', false]; // Change this line
